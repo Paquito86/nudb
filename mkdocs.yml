@@ -1,0 +1,17 @@
+site_name: NuDB
+theme:
+  name: material
+  features:
+    - header.autohide
+    - search.suggest
+    - search.highlight
+plugins:
+  - search:
+      lang: es
+extra:
+  analytics:
+    provider: google
+    property: G-XX49BJZMTZ
+      
+
+copyright: Copyright &copy; 2021 Álvaro Dí­az
